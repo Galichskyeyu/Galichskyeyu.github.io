@@ -1,4 +1,4 @@
 // Some assembly required, batteries sold separately
 
 // Inspiration
-// https://www.pinterest.ru/pin/18225573484195274/
+// https://www.pinterest.com/pin/556687203921295406/
